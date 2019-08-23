@@ -1,7 +1,8 @@
 // server.js
 // where your node app starts
 /*
-	npm install express cors
+	npm ln express
+	npm ln cors
 */
 
 // init project
